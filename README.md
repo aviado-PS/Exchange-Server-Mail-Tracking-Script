@@ -21,7 +21,7 @@ Each section retrieves and displays logs with details such as timestamp, sender,
 **Note:** Modify the date ranges in the script if you need to track emails for different time periods.
 ## Author
 
-This script was authored by [Aviad Ofek](https://github.com/aviado1).
+This script was authored by [aviado1](https://github.com/aviado1).
 ## Begin Script
 
 ```powershell
